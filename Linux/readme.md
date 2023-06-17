@@ -1,2 +1,4 @@
-**Linux Dokumentationen**
-Zum Aufrufen bitte die Dateinamen anklicken oder runterladen
+# Linux 
+Dokumentationen auf Github gratis gehostet
+Ordnern anklicken, um die Dateien zu öffnen
++ Zum Aufrufen bitte die PDFs runterladen und mit den Browser or PDF-Reader öffnen
