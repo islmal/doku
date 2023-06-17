@@ -6,7 +6,7 @@ Dokumentationen auf Github gratis gehostet … Ordnern anklicken, um die Dateien
 + Die Dokumentationen wurden für Linuxrechner erstellt. Einige Programme in den Dokumentationen sind Cross-Platform.
 
 ### Quellen
-(Tatsumoto)[https://tatsumoto.neocities.org/blog/table-of-contents]
-(TheMoeWay)[https://learnjapanese.moe/]
-(Arch Linux Wiki)[https://wiki.archlinux.org/]
-(reddit.com/vpntorrents)[https://reddit.com/r/VPNTorrents/]
+[Tatsumoto](https://tatsumoto.neocities.org/blog/table-of-contents)
+[TheMoeWay](https://learnjapanese.moe/)
+[Arch Linux Wiki](https://wiki.archlinux.org/)
+[reddit.com/vpntorrents](https://reddit.com/r/VPNTorrents/)
