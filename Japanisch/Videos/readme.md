@@ -3,7 +3,9 @@ Yomichan + MPV + Anki auf Arch Linux mit GNOME:
 
 https://github.com/islmal/doku/assets/136852714/08a6cd4b-74f4-4f43-9779-3da0b8b5694e
 
+Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + Goldendict + Anki auf Arch Linux mit Gnome (X11):
 
+https://github.com/islmal/doku/assets/136852714/76033b72-2a35-4b57-85c4-fc30ce70735e
 
 Fate/Stay Night auf VirtualBox + Goldendict + Anki + [ames](https://github.com/eshrh/ames) auf Arch Linux mit XFCE:
 
