@@ -1,11 +1,11 @@
-Yomichan + MPV + Anki auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
+[Rikaitan für Firefox](https://addons.mozilla.org/en-US/firefox/addon/rikaitan/) + MPV + Anki auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
 
 
 https://github.com/islmal/doku/assets/136852714/aad8d08f-54e6-4319-81e4-f89a88281bd4
 
 
 
-Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + Goldendict + Anki + [ames](https://github.com/eshrh/ames) auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
+Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + [Rikaitan für Firefox](https://addons.mozilla.org/en-US/firefox/addon/rikaitan/) + Anki + [ames](https://github.com/eshrh/ames) auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
 
 
 
