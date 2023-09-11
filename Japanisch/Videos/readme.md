@@ -1,13 +1,18 @@
-Yomichan + MPV + Anki auf Arch Linux mit GNOME:
+Yomichan + MPV + Anki auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
 
 
-https://github.com/islmal/doku/assets/136852714/08a6cd4b-74f4-4f43-9779-3da0b8b5694e
+https://github.com/islmal/doku/assets/136852714/aad8d08f-54e6-4319-81e4-f89a88281bd4
 
-Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + Goldendict + Anki auf Arch Linux mit Gnome (X11):
 
-https://github.com/islmal/doku/assets/136852714/76033b72-2a35-4b57-85c4-fc30ce70735e
 
-Fate/Stay Night auf VirtualBox + Goldendict + Anki + [ames](https://github.com/eshrh/ames) auf Arch Linux mit XFCE:
+Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + Goldendict + Anki + [ames](https://github.com/eshrh/ames) auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
+
+
+
+https://github.com/islmal/doku/assets/136852714/bf1ea210-fe78-4dae-a32f-a1d5e2dca963
+
+
+Fate/Stay Night auf VirtualBox + Goldendict + Anki + [ames](https://github.com/eshrh/ames) auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit XFCE:
 
 
 https://github.com/islmal/doku/assets/136852714/3d84fece-bd56-4ad2-8607-036f26e39d63
