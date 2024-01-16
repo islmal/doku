@@ -22,3 +22,7 @@ Fate/Stay Night Ankikarte erstellt mit [ames](https://github.com/eshrh/ames)
 
 https://github.com/islmal/doku/assets/136852714/6d978bef-86dc-4d28-95e0-4d046b9cffb8
 
+Mit Handschrift schreiben und suchen auf [Qhanzi](https://www.qhanzi.com/index.ja.html) und [Google Übersetzer](https://translate.google.com/?sl=auto&tl=ja)
+
+https://github.com/islmal/doku/assets/136852714/f4cbb599-dd93-4879-970d-ebe035c813da
+
