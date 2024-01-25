@@ -2,10 +2,9 @@
 
 https://github.com/islmal/doku/assets/136852714/2aa9215a-c368-4423-9276-03effc06657c
 
+Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + [Rikaitan für Chrome](https://chromewebstore.google.com/detail/rikaitan/pnjdahdadbkhcfamabafkjbjblbgkodk) + Anki auf Linux Mint:
 
-Manga mit [transformers_ocr](https://github.com/Ajatt-Tools/transformers_ocr) + [Rikaitan für Firefox](https://addons.mozilla.org/en-US/firefox/addon/rikaitan/) + Anki + [ames](https://github.com/eshrh/ames) auf [Arch Linux](https://www.privacyguides.org/en/desktop/#arch-linux) mit [i3](https://wiki.archlinux.de/title/I3):
-
-https://github.com/islmal/doku/assets/136852714/bf1ea210-fe78-4dae-a32f-a1d5e2dca963
+https://github.com/islmal/doku/assets/136852714/058242ef-5791-48fe-b789-7dad357d37c4
 
 srt Transkriptdateien mit [ffsubsync](https://github.com/Ajatt-Tools/autosubsync-mpv) korrigieren - Video-Demo
 
